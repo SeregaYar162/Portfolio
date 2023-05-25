@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+}
+.h-a1{
+ color: black;
+ font-size:36px ; 
+margin-left: 50px;
+margin-right: 85px;
+position: absolute;
+top: 27px;
+right: 20px;
+ 
+}
+.h-a{
+ color: black;
+ font-size:36px ; 
+margin-left: 50px;
+margin-right: 85px;
+position: absolute;
+top:27px;
+
+ 
+}
+
+.logo{
+  
+    font-size: 30px;
+    background-color: #FF9900;
+    width: 66px;
+
+    margin-left: 45%;
+    border: red double 10px;
+
+}
+header{
+  background-color: #DA6A00;
+  margin:0;
+
+}
+h1{
+    text-align: center;
+    font-size:40px ;
+    margin-top: 0;
+
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+.aboutme{
+    text-align: center;
+    width: 180px;
+    margin-left:40% ;
+    background-color: #68904D;
+    border:solid 12px #14471E;
+    border-radius:35px;
+    font-size: 20px;
+    margin-bottom: 0px;
+    
+}
+main{
+    background-color: #EE9B01;
+    margin:0;
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    background-color:#DA6A00 ;
+    padding: 3px;
+ 
+
+}
+.foter{
+    background-color: #EE9B01;
+    width: 700px;
+    height: 25px;
+    margin-left:14%;
+    border-radius: 17%;
+    font-size: 20px;
+    margin-bottom:20px ;
+    
+
+}
+
+html{
+
+}
+
+
